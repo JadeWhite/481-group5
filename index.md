@@ -1,12 +1,25 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial 1 - Group 5
 
-## Project Title
+## Recreation Centre App Project
 
 * Title
+
+Recreation Centre App
+
 * Team Members (names, IDs)
+
+- (Hundal,___)
+- (Jade White, 10103321)
+- (Mohammed Albaiti,_____)
+
 * Tutorial Number and TA
 
+T01, Kody
+
 ## Project Idea
+
+A app for recreation centres.
+It streamlines the experience of attending a recreation centre.
 
 ![](http://lorempixel.com/1200/300/ "Motivational image")
 
