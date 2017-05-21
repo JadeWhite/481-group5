@@ -8,9 +8,7 @@ Recreation Centre App
 
 * Team Members (names, IDs)
 
-- (Hundal,___)
-- (Jade White, 10103321)
-- (Mohammed Albaiti,_____)
+(Hundal,___), (Jade White, 10103321), (Mohammed Albaiti,_____)
 
 * Tutorial Number and TA
 
@@ -19,7 +17,7 @@ T01, Kody
 ## Project Idea
 
 A app for recreation centres.
-It streamlines the experience of attending a recreation centre.
+It streamlines the experience of checking in, keeping track of classes, and using equipment at a recreation centre.
 
 ![](http://lorempixel.com/1200/300/ "Motivational image")
 
