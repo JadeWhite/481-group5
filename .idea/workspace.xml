@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5db4b9d-67ec-4350-8f37-e77982cf4f3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Ethnography0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Ethnography1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Review0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Review1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Review2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TeamContract.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p0.md" afterPath="$PROJECT_DIR$/p0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1.md" afterPath="$PROJECT_DIR$/p1.md" />
-    </list>
+    <list default="true" id="b5db4b9d-67ec-4350-8f37-e77982cf4f3f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -40,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -260,12 +249,12 @@
       <updated>1495346411224</updated>
       <workItem from="1495346414110" duration="432000" />
       <workItem from="1495346958415" duration="724000" />
-      <workItem from="1495817561261" duration="1891000" />
+      <workItem from="1495817561261" duration="1911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3047000" />
+    <option name="totallyTimeSpent" value="3067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="284" y="378" width="1713" height="823" extended-state="0" />
@@ -399,8 +388,8 @@
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
